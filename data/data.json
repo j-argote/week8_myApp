@@ -1,0 +1,33 @@
+{
+    "games": [{
+        "title": "Ace Combat 7: Skies Unknown",
+        "summary": "Discover the glory of being an elite fighter pilot. Become an Ace pilot by taking down enemies through tactical dogfighting, while experiencing the exhilaration of flying freely in a fully immersive world.",
+        "release_date": "January 18, 2019",
+        "platforms": "Xbox One, Playstation 4, PC",
+        "image": "ace_combat_7_cover.jpeg"
+    }, {
+        "title": "Resident Evil 2 (remake)",
+        "summary": "Join rookie police officer Leon S. Kennedy and college student Claire Redfield, who are thrust together by a disastrous outbreak in Raccoon City that transformed its population into deadly zombies.",
+        "release_date": "January 25, 2019",
+        "platforms": "Xbox One, Playstation 4, PC",
+        "image": "resident_evil_2_cover.jpeg"
+    }, {
+        "title": "Kingdom Hearts 3",
+        "summary": "KINGDOM HEARTS III tells the story of the power of friendship and light vs. darkness as Sora and his friends embark on a perilous adventure. Set in a vast array of Disney and Pixar worlds, KINGDOM HEARTS follows the journey of Sora, an unknowing heir to a spectacular power. Sora is joined by Donald Duck and Goofy to stop an evil force known as the Heartless from invading and overtaking the universe. Sora, Donald, and Goofy unite with iconic Disney-Pixar characters old and new to overcome tremendous challenges and persevere against the darkness threatening their worlds.",
+        "release_date": "January 29, 2019",
+        "platforms": "Xbox One, Playstation 4, PC",
+        "image": "kingdom_hearts_3_cover.jpeg"
+    }, {
+        "title": "Sekiro: Shadows Die Twice",
+        "summary": "In Sekiro: Shadows Die Twice you are the “one-armed wolf”, a disgraced and disfigured warrior rescued from the brink of death. Bound to protect a young lord who is the descendant of an ancient bloodline, you become the target of many vicious enemies, including the dangerous Ashina clan. When the young lord is captured, nothing will stop you on a perilous quest to regain your honor, not even death itself.",
+        "release_date": "March 22, 2019",
+        "platforms": "Xbox One, Playstation4, PC",
+        "image": "sekiro_shadows_die_twice_cover.jpeg"
+    }, {
+        "title": "Days Gone",
+        "summary": "At its core, Days Gone is about survivors and what makes them human: desperation, loss, madness, betrayal, friendship, brotherhood, regret, love – and hope. It’s about how even when confronted with such enormous tragedy they find a reason to live. Hope never dies.",
+        "release_date": "April 26, 2019",
+        "platforms": "Playstation 4",
+        "image": "days_gone_cover.jpeg"
+    }]
+}
