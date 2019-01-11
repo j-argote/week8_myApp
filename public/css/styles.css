@@ -1,0 +1,28 @@
+.carousel-item{
+    height: 600px;
+}
+
+.carousel-item img{
+    height: 600px;
+}
+
+.carousel-caption{
+    height: 600px;
+    color: black;
+}
+
+.coverPic{
+    width: 150px;
+}
+
+
+footer p{
+    color: white;
+    line-height: .1rem;
+    padding-top: .6rem;
+}
+
+
+.bottom{
+    background-color: rgb(48, 47, 47);
+}
