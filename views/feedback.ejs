@@ -12,11 +12,12 @@
     <div class="container">
         <div class="row">
     <div class="col-5">
-    <form action="" method="POST">
-        <p>Name: <input type="text" name="name"></p> 
-        <p>Title: <input type="text" name="title"></p> 
-        <p>Message: <input type="text" name="message"></p> 
-        <input type="Submit">
+    <form action="api" method="POST" id="feedbackForm" >
+        <p>Name: <input type="text" name="name" id="feedbackFormName"></p> 
+        <p>Title: <input type="text" name="title" id="feedbackFormTitle"></p> 
+        <p>Message: <input type="text" name="message" id="feedbackFormMessage"></p> 
+        <button type="submit">Submit</button>
+        </form>
     </form>
     </div>
     
@@ -24,10 +25,6 @@
 
     <!-- messages -->
     <div class="col-5" id="feedbackMsgs">
-        <h4>name</h4>
-        <h4>title</h4>
-        <h4>comment</h4>
-        <h5>trash can</h5>
     </div>
     <!-- end messages -->
 
